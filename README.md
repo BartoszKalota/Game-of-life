@@ -1,5 +1,5 @@
 # Game Of Life (Workshop-3)
-The 'Game Of Life' prepared in pure JavaScript (ES5).
+The 'Game Of Life' prepared in pure JavaScript (ES5) as the part of the Coders Lab course.
 
 # Information
 It is so called zero-player game that evolves on the basis of its original state ([more information](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)).<br />
