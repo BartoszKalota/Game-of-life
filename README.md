@@ -1,10 +1,11 @@
 # Game Of Life (Workshop-3)
 The 'Game Of Life' prepared in pure JavaScript (ES5) as the part of the Coders Lab course.
 
-![Project screenshot](/images/project_screen.jpg)
-
 # Live demo
 https://bartoszkalota.github.io/Game-of-life/
+
+# Video demo
+[![Watch the video](./images/video-demo.jpg)](https://youtu.be/XY_cZSQq1m0)
 
 # Information
 It is so called zero-player game that evolves on the basis of its original state ([more information](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)).<br />
